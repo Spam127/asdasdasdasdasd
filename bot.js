@@ -42,4 +42,4 @@ client.on('ready', () => {
 });
 
 
-client.login("BOT_TOKEN");
+client.login("NTMzNjc5NzY2MjUyMDI3OTI3.DxyrXw.8JBRADWXfO5IfHd6K97slLK9PZ0");
